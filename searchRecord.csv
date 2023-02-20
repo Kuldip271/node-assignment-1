@@ -1,0 +1,2 @@
+NAME,DESCRIPTION,HTML_URL,WATCHERS_COUNT,STARGAZERS_COUNT,FORKS_COUNT
+xorm,"Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm",https://github.com/go-xorm/xorm,6608,6608,776
